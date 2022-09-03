@@ -1,5 +1,5 @@
 ---
-     - src: git@github.com:netology-code/mnt-homeworks-ansible.git
+     - src: https://github.com/Yury-Piataev/ansible/tree/main/8.3/elastic-role
        scm: git
        version: "1.0.1"
        name: java 
