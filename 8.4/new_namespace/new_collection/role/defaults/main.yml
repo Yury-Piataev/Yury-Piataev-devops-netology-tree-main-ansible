@@ -1,0 +1,4 @@
+---
+# defaults file 
+my_path: "/tmp/tempfile.txt"
+my_content: "default content"
